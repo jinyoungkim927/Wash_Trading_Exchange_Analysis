@@ -1,7 +1,5 @@
 # Wash Trading Testing Package
 
-Package size is very large: still in the process of cleaning then uploading, will be public in 3 days time. 
-
 ### The Problem: 
 
 The world’s been shocked by the fall of FTX, major cryptocurrency exchange. Due to poor accounting, internal processes around accountability, high leverage lending, and a secret backdoor connection with Alameda Research, FTX went from $32 billion company to essentially 0 in the span of a week. Even for those who don’t believe crypto holds value, this has mattered. [$2 billion worth of customer funds, much of which are savings from retail investors, have simply disappeared](https://markets.businessinsider.com/news/currencies/ftx-crypto-billions-customer-funds-missing-collapse-bankruptcy-bankman-fried-2022-11).  
